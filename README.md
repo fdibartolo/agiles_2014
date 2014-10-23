@@ -1,0 +1,1 @@
+#### This is the resolution of the [word wrap kata](http://codingdojo.org/cgi-bin/index.pl?KataWordWrap) used for my [Agiles 2014 talk](http://agiles2014.sched.org/event/75e37d1ff07889d60d102b1386e0358d#.VElttb5gvww)
